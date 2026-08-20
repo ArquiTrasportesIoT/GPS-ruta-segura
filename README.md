@@ -17,3 +17,11 @@ rápido y seguro.
 **Estado:** En desarrollo
  ### Pantallazo de la App
  ![Pantalla Principal](IMG-20260819-WA0956.jpg)
+### ¿Para quién es?
+**Para Transportadoras y Flotas**
+
+Deje de pelear por 3 choferes veteranos.
+Con GPS-ruta-segura puede contratar 20 jóvenes y ponerlos a rodar 
+el lunes. La app hace de copiloto, de mecánico y de padrino.
+
+**Menos riesgo. Menos multas. Más viajes. Más ganancia.**
