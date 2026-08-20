@@ -25,3 +25,17 @@ Con GPS-ruta-segura puede contratar 20 jóvenes y ponerlos a rodar
 el lunes. La app hace de copiloto, de mecánico y de padrino.
 
 **Menos riesgo. Menos multas. Más viajes. Más ganancia.**
+### Ecosistema de Publicidad GPS-ruta-segura
+La app conecta al camionero con todo lo que necesita en ruta:
+
+**Mecánica y Repuestos:** Baterías, Rodillos, Llantas, Aceites, 
+Talleres de Motor, Latonería y Pintura, Servicio de Escaneo
+
+**Servicios de Emergencia:** Grua 24h, Carro Taller, Lavaderos
+
+**Descanso:** Hoteles, Restaurantes, Farmacias, Tiendas de Abarrotes
+
+**Lujos:** Accesorios, Personalización para tractomulas
+
+**Ganamos cuando el camionero gana.** Él llega seguro. 
+El negocio local vende. Todos felices.
