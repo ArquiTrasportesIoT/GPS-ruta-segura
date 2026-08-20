@@ -1,20 +1,17 @@
-  # GPS-Ruta-Segura 🚛
+# GPS-ruta-segura 🚛
+### Waze para Transporte de Carga Pesada en Colombia
+
+**Pantalla Principal:**
+1.  **GPS** - Navegación exclusiva para vehículos de carga
+2.  **Detalles** - Hoteles, Mecánicos, Parqueaderos, Restaurantes, 
+    Almacenes de Repuestos, Chat Online entre camioneros
+3.  **Ajustes** - Configuración simple
     
-    ## Descripción
-    App móvil para camioneros que muestra rutas seguras en tiempo real y alertas de sensores IoT.
-    
-    ## ¿Qué resuelve?
-    - Evita robos en rutas de alto riesgo
-    - Monitorea sensores de temperatura y puertas del camión
-    - Ahorra tiempo y combustible a las empresas de transporte
-    
-    ## Tecnologías
-    - App Móvil: En desarrollo
-    - Sensores IoT: En desarrollo
-    - Base de datos: En desarrollo
-    
-    ## Autor
-    Diego Salas - Arquitecto Logístico | Técnico Programador SENA
-    Proyecto de: ArquiTransporteIoT
-    
-    *En construcción...*
+**Diseño:** Botones grandes y fáciles de usar mientras se conduce
+
+**Problema que resuelve:**
+Evitar rutas no aptas, perderse, y encontrar servicios en carretera
+rápido y seguro.
+
+**Autor:** Diego Salas - 20 años en Transporte + SENA Programación
+**Estado:** En desarrollo
