@@ -15,3 +15,5 @@ rápido y seguro.
 
 **Autor:** Diego Salas - 20 años en Transporte + SENA Programación
 **Estado:** En desarrollo
+    ### Pantallazo de la App
+    ![Pantalla Principal](IMG-20260819-WA0956.jpg)
